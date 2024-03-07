@@ -16,7 +16,7 @@ Bring fingers closer to increase volume.
 Press 'q' to quit.
 
 ## Libraries
-OpenCV (cv2)
-Mediapipe (mediapipe)
-Pycaw (pycaw)
-Comtypes (comtypes)
+- OpenCV (cv2)
+- Mediapipe (mediapipe)
+- Pycaw (pycaw)
+- Comtypes (comtypes)
